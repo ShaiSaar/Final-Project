@@ -353,9 +353,9 @@ function changingPassOrAge(value) {
     return;
 }
 
-groups.push(new Group("work"));
-users.push(new User("shai","123",12));
-groups[0].users.push(users[0]);
+//groups.push(new Group("work"));
+//users.push(new User("shai","123",12));
+//groups[0].users.push(users[0]);
 
 
 // users.push(new User("ariel","456",22));
