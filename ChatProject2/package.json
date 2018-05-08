@@ -1,0 +1,10 @@
+{
+  "name": "ChatProject1",
+  "version": "0.0.1",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "start": "node view/view.js"
+  }
+}
